@@ -1,0 +1,26 @@
+.textt{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.navbar{
+    background: #758283;
+}
+
+.sect{
+    background: #758283;
+}
+
+.text{
+    font-weight: 600;
+}
+
+.list{
+list-style: none;
+font-size: 40px;
+font-weight: 700;
+}
+
+.tb{
+    font-weight: 600;
+}
