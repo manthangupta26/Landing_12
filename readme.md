@@ -8,14 +8,14 @@ Made a Beautiful Landing Page
 
 ## Time
 ___
-Took 4-5 Hours to make and learn lots of things.
+Took 4-5 Hours to make, but learn lots of things.
 
 
 ### Deployed Link on Netlify
 ___
 Click here to go the home page which is deployed via Netlify.
 
-[Click me](https://stalwart-entremet-3d2416.netlify.app)
+[Click me](https://super-gaufre-887f73.netlify.app)
 
 ### Screenshots
 ___
